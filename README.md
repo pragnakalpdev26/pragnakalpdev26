@@ -9,5 +9,4 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnakalpdev26&layout=compact&theme=vision-friendly-dark"/>
 <br/>
-<p>Parth's GitHub stats</p>
 <img src="https://github-readme-stats.vercel.app/api?username=pragnakalpdev26&show_icons=true&theme=radical"/>
