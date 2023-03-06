@@ -6,7 +6,6 @@
 ### :fire: My Stats :
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pragnakalpdev26&theme=dark&date_format=j%20M%5B%20Y%5D"/>
-<img src="https://git.io/streak-stats" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragnakalpdev26&layout=compact&theme=vision-friendly-dark"/>
 <br/>
